@@ -21,6 +21,27 @@
 | Makefile | 366 | 0.1% |
 | Dockerfile | 225 | 0.0% |
 
+## README 完整性檢查
+
+⚠️ **README 不完整** - 缺少以下部分：
+  - 系統架構
+  - 技術框架
+  - 程式語言
+
+**建議補充內容：**
+
+### 🏗️ 系統架構
+*在此描述系統架構...*
+
+### 🛠️ 技術框架
+*在此列出使用的技術框架...*
+
+### 💻 程式語言
+- 主要語言: Go
+
+
+*檢查時間: 2026-03-19 14:26:57*
+
 ## Repository Information
 
 - **GitHub URL**: https://github.com/lucas152112/strategy_turning

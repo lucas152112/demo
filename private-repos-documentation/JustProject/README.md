@@ -22,6 +22,19 @@
 | TypeScript | 981 | 0.0% |
 | CSS | 934 | 0.0% |
 
+## README 完整性檢查
+
+⚠️ **README 不完整** - 缺少以下部分：
+  - 程式語言
+
+**建議補充內容：**
+
+### 💻 程式語言
+- 主要語言: Makefile
+
+
+*檢查時間: 2026-03-19 14:26:57*
+
 ## Repository Information
 
 - **GitHub URL**: https://github.com/lucas152112/JustProject

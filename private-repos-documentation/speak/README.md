@@ -9,6 +9,18 @@
 **Stars**: 0 | **Forks**: 0
 **Archived**: False
 
+## README 完整性檢查
+
+❌ **無 README.md 文件**
+
+建議創建 README.md 並包含以下內容：
+- 專案簡介
+- 系統架構
+- 技術框架
+- 程式語言
+
+*檢查時間: 2026-03-19 14:26:57*
+
 ## Repository Information
 
 - **GitHub URL**: https://github.com/lucas152112/speak
