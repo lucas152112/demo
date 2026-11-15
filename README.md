@@ -15,6 +15,7 @@
 | [fastIM](./fastIM/README.md) | 私人即時通訊系統 | [README](fastIM/README.md) |
 | [fgsgame](./fgsgame/README.md) | 棋牌遊戲專案，使用 Cocos2d-x、Lua 與 Python | [README](fgsgame/README.md) |
 | [javatest](./javatest/README.md) | 測試用途 repository；具體內容未詳 | [README](javatest/README.md) |
+| [java_account](./java_account/README.md) | 遊戲平台帳務系統；包含 Zuul Gateway、平台服務與財務服務 | [系統說明](java_account/README.md) · [架構](java_account/ARCHITECTURE.md) |
 | [javatrst](./javatrst/README.md) | 測試用途 repository；具體內容未詳 | [README](javatrst/README.md) |
 | [justread](./justread/docs/README.md) | 閱讀平台 | [文件](justread/docs/README.md) |
 | [openclaw_extend_k8s_worker_dispatch](./openclaw_extend_k8s_worker_dispatch/README.md) | OpenClaw 使用的 Kubernetes Worker 調度系統 | [README](openclaw_extend_k8s_worker_dispatch/README.md) |

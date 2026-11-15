@@ -1,0 +1,10 @@
+# TASKS
+
+- [x] 彙整來源 monorepo 的 README 與已確認系統架構，標註文件副本與限制。
+- [x] 建立 `README.md` 與 `ARCHITECTURE.md`，僅寫入經程式／來源文件支持的內容。
+- [x] 更新 `~/demo/README.md` repository 索引，連結至新文件。
+- [x] 新增開發紀錄；檢查新增文件連結與敏感設定模式。
+- [x] 僅將本任務檔案列入 staged；保留 `~/demo` 既有未提交刪除，不納入提交。
+- [ ] Commit、push `~/demo` 的 `main`，並讀回確認遠端 commit。
+
+> `~/demo` 的公開遠端已有三項未提交刪除；本次不會納入或覆蓋這些變更。
