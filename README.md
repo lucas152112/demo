@@ -49,4 +49,4 @@
 ![捕魚作品展示 1](Cocos-2dx/%E6%8D%95%E9%AD%9A/IMG_20240203_011221.jpg)
 ![捕魚作品展示 2](Cocos-2dx/%E6%8D%95%E9%AD%9A/IMG_20240203_011231.jpg)
 
-> 原 `private-repos-documentation/README.md` 已保留於主目錄的 [`private-repos-documentation-README.md`](./private-repos-documentation-README.md)。本目錄文件是彙整副本，不代表已核實各遠端 repository 的最新狀態。
+> 本目錄文件是彙整副本，不代表已核實各遠端 repository 的最新狀態。

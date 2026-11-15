@@ -10,3 +10,4 @@
 - 依使用者確認，將 `javatest`、`javatrst` 設為彙整例外：自索引移除兩項，且不建立其 repo 說明內容。
 - 例外設定與索引調整以 commit `55802cd` 推送至公開遠端 `lucas152112/demo` 的 `main`，並讀回確認遠端版本。
 - 經授權移除遠端 `javatest/README.md`、`javatrst/README.md`，以 commit `224d03e` 推送並確認遠端樹中已不存在；其他既有刪除未納入。
+- 依要求同步唯一剩餘的本機刪除 `private-repos-documentation-README.md`；並移除根 README 中指向該檔的失效連結，其餘待提交刪除不納入。
