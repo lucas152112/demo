@@ -1,0 +1,6 @@
+# TASKS
+
+- [x] 將 `private-repos-documentation/` 內所有內容移至 `~/demo/` 主目錄；原 README 若有名稱衝突，保留為獨立檔案。
+- [x] 更新主目錄索引中全部 repository 的連結，指向移動後實際存在的文件。
+- [x] 將 `C#` 與 `Cocos-2dx` 定義為作品展示，於主目錄 README 說明並連結展示圖片。
+- [x] 驗證移動後檔案數、連結目標、展示圖片路徑與索引項目。
