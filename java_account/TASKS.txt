@@ -8,3 +8,9 @@
 - [x] Commit、push `~/demo` 的 `main`，並讀回確認遠端 commit。
 
 > `~/demo` 的公開遠端已有三項未提交刪除；本次不會納入或覆蓋這些變更。
+
+## 例外 repo 調整
+
+- [x] 將 `javatest`、`javatrst` 設為內容彙整例外，不建立兩者的 repo 說明文件。
+- [x] 從主目錄索引移除兩個例外 repo；檢查本次 diff 不新增其內容，並保留原有未提交刪除。
+- [ ] Commit、push 本次文件索引調整，讀回驗證遠端 `main`。

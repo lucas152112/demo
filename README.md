@@ -2,6 +2,8 @@
 
 此索引彙整本目錄內各 repository 的簡介與文件位置。簡介依各專案 README／文件整理；未找到明確說明時以「待確認」標示。
 
+> 彙整例外：`javatest` 與 `javatrst` 不建立 repo 說明文件，也不列入本索引。
+
 | Repository | 簡介 | 專案文件 |
 |---|---|---|
 | [JustProject](./JustProject/README.md) | JIRA 風格的私人專案管理系統重製版 | [README](JustProject/README.md) |
@@ -14,9 +16,7 @@
 | [coffee](./coffee/README.md) | 多租戶咖啡館管理系統 | [README](coffee/README.md) |
 | [fastIM](./fastIM/README.md) | 私人即時通訊系統 | [README](fastIM/README.md) |
 | [fgsgame](./fgsgame/README.md) | 棋牌遊戲專案，使用 Cocos2d-x、Lua 與 Python | [README](fgsgame/README.md) |
-| [javatest](./javatest/README.md) | 測試用途 repository；具體內容未詳 | [README](javatest/README.md) |
 | [java_account](./java_account/README.md) | 遊戲平台帳務系統；包含 Zuul Gateway、平台服務與財務服務 | [系統說明](java_account/README.md) · [架構](java_account/ARCHITECTURE.md) |
-| [javatrst](./javatrst/README.md) | 測試用途 repository；具體內容未詳 | [README](javatrst/README.md) |
 | [justread](./justread/docs/README.md) | 閱讀平台 | [文件](justread/docs/README.md) |
 | [openclaw_extend_k8s_worker_dispatch](./openclaw_extend_k8s_worker_dispatch/README.md) | OpenClaw 使用的 Kubernetes Worker 調度系統 | [README](openclaw_extend_k8s_worker_dispatch/README.md) |
 | [openclaw_extend_memory_system](./openclaw_extend_memory_system/README.md) | OpenClaw Gateway／Worker 的擴充記憶與任務執行系統 | [README](openclaw_extend_memory_system/README.md) |
