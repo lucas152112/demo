@@ -5,6 +5,6 @@
 - [x] 更新 `~/demo/README.md` repository 索引，連結至新文件。
 - [x] 新增開發紀錄；檢查新增文件連結與敏感設定模式。
 - [x] 僅將本任務檔案列入 staged；保留 `~/demo` 既有未提交刪除，不納入提交。
-- [ ] Commit、push `~/demo` 的 `main`，並讀回確認遠端 commit。
+- [x] Commit、push `~/demo` 的 `main`，並讀回確認遠端 commit。
 
 > `~/demo` 的公開遠端已有三項未提交刪除；本次不會納入或覆蓋這些變更。
