@@ -14,3 +14,9 @@
 - [x] 將 `javatest`、`javatrst` 設為內容彙整例外，不建立兩者的 repo 說明文件。
 - [x] 從主目錄索引移除兩個例外 repo；檢查本次 diff 不新增其內容，並保留原有未提交刪除。
 - [x] Commit、push 本次文件索引調整，讀回驗證遠端 `main`。
+
+## 已授權移除遠端文件
+
+- [x] 確認遠端 `main` 仍包含 `javatest/README.md` 與 `javatrst/README.md`。
+- [ ] 只提交這兩個檔案的刪除；保留其他既有未提交刪除。
+- [ ] 推送後讀回遠端 `main`，確認兩個檔案已移除且其餘內容未變。
