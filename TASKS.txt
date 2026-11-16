@@ -17,4 +17,4 @@
 ## README 置頂展示與同步
 - [x] 將技術覆蓋範圍圖放在主目錄 README 最前方。
 - [x] 更新開發日誌並驗證 README 圖片相對路徑。
-- [ ] Commit、push，並確認遠端提交一致。
+- [x] Commit、push，並確認遠端提交一致。
