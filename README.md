@@ -1,3 +1,5 @@
+![技術覆蓋範圍](./TECH_PERIODIC_TABLE.svg)
+
 # Repository 索引
 
 此索引彙整本目錄內各 repository 的簡介與文件位置。簡介依各專案 README／文件整理；未找到明確說明時以「待確認」標示。
